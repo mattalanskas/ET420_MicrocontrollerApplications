@@ -1,6 +1,6 @@
 /* 	
 	ET420 Assignment #8
-	Programmer: Ryan Morrissey
+	Programmer: Matt Alanskas
 	Program: Temp Sensor
 	Created: 08 April 2021
 	Modified: 16 April 2021
